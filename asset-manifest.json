@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5704d920.css",
+    "main.js": "/static/js/main.8b78b079.js",
+    "static/js/787.4fb5428b.chunk.js": "/static/js/787.4fb5428b.chunk.js",
+    "static/media/2025Resume_MengyunXie_SoftwareEngineer.pdf": "/static/media/2025Resume_MengyunXie_SoftwareEngineer.ccd90821e0026d0035b4.pdf",
+    "index.html": "/index.html",
+    "main.5704d920.css.map": "/static/css/main.5704d920.css.map",
+    "main.8b78b079.js.map": "/static/js/main.8b78b079.js.map",
+    "787.4fb5428b.chunk.js.map": "/static/js/787.4fb5428b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5704d920.css",
+    "static/js/main.8b78b079.js"
+  ]
+}
